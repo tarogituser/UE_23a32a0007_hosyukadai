@@ -1,1 +1,1 @@
-# UE23a32a0007_hosyukadai
+# 補修課題です
